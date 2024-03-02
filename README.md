@@ -15,6 +15,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left">
 <a href="https://instagram.com/sachinsharma_ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachinsharma_ss" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sachin-sharma-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-sharma-web" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jbj smart tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jbj smart tech" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/sachinexplorer1" target="blank"><img src="https://icons8.com/icon/ZRiAFreol5mE/instagram" alt="sachinexplorer1" /></a> </p>
